@@ -1,5 +1,23 @@
 #Changelog
 
+v0.2
+Added some mods, removed MouseTweaks
+  Added:
+	Core mods: (0)
+	
+	Normal mods: (4)
+	- Inventory Tweaks v1.59-dev152
+	- JourneyMap v5.1.0-fairplay
+	- MmmMmmMmmMmm v1.7.10
+	- Tinkers Construct v1.8.8
+	
+	Addons: 
+	- Tinkers Mechworks v0.2.15.106
+	
+  Removed:
+	- Mouse Tweaks
+---
+
 v0.1
 First load of mods and configs uploaded
   Added:
