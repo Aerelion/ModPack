@@ -1,3 +1,2 @@
-# ModPack
-Just a collection of mods. 
-It's a readme :D
+# README
+This is a collection of minecraft mods that create a medieval war setting for servers. Has to be manually installed.
