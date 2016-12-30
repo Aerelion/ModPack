@@ -1,4 +1,14 @@
 #Changelog
+v0.3.1
+Some more utilities
+  Added: (3)
+    Normal mods: (3)
+    - Applied Energistics 2 v2-10
+    - Ender Storage v1.4.7.37
+    - WAILA v1.5.10
+
+---
+
 v0.3.0
 Some more automization coming trough
   Added: (11)
@@ -20,11 +30,13 @@ Some more automization coming trough
     - SolarFlux v0.8b
     
 ---
+
 v0.2.1
 Some mods didn't get trough, reuploaded them
   Added: (1)
     Normal mods: (1)
     - FastLeafDecay v1.4
+
 ---
 
 v0.2.0
@@ -41,6 +53,7 @@ Added some mods, removed MouseTweaks
 	
   Removed: (1)
 	- Mouse Tweaks
+	
 ---
 
 v0.1.0
