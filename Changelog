@@ -1,32 +1,51 @@
 #Changelog
-
-v0.2.2
+v0.3.0
+Some more automization coming trough
+  Added: (11)
+    Core mods: (2)
+    - CoFHCore v3.1.3-327
+    - Thermal Foundation v1.2.5-115
+    
+    Normal mods: (7)
+    - AgriCraft v1.5.0
+    - Buildcraft v7.1.18
+    - InfiniBows v1.3.0.20
+    - Logistisc Pipes v0.9.3.128
+    - MineFactory Reloaded v2.8.1-174
+    - Thermal Dynamics v1.2.0-171
+    - Thermal Expansion v4.1.4-247
+    
+    Addons: (2)
+    - NotEnoughResources v0.1.0-122
+    - SolarFlux v0.8b
+    
+---
+v0.2.1
 Some mods didn't get trough, reuploaded them
-  Added:
-  - FastLeafDecay v1.4
+  Added: (1)
+    Normal mods: (1)
+    - FastLeafDecay v1.4
 ---
 
-v0.2.1
+v0.2.0
 Added some mods, removed MouseTweaks
-  Added:
-	Core mods: (0)
+  Added: (5)
+    Normal mods: (4)
+    - Inventory Tweaks v1.59-dev152
+    - Journey Map v5.1.0-fairplay
+    - MmmMmmMmmMmm v1.7.10
+    - Tinkers Construct v1.8.8
 	
-	Normal mods: (4)
-	- Inventory Tweaks v1.59-dev152
-	- JourneyMap v5.1.0-fairplay
-	- MmmMmmMmmMmm v1.7.10
-	- Tinkers Construct v1.8.8
+    Addons: (1)
+    - Tinkers Mechworks v0.2.15.106
 	
-	Addons: 
-	- Tinkers Mechworks v0.2.15.106
-	
-  Removed:
+  Removed: (1)
 	- Mouse Tweaks
 ---
 
-v0.1
+v0.1.0
 First load of mods and configs uploaded
-  Added:
+  Added: (19)
     Core mods: (2)
     - CodeChickenCore v1.0.4.29
     - Mantle v0.3.2b
@@ -52,6 +71,4 @@ First load of mods and configs uploaded
     - ProjectRed-Lighting v4.7.0pre12.95
     - ProjectRed-World v4.7.0pre12.95
   
-  Removed:
-    Nothing
 ---
